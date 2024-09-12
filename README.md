@@ -22,4 +22,8 @@ drop database database_name;
 ```base
 psql -U postgres psql -f file_with_path -d database_name
 ```
+## INSTALL ALL REQUIRED PACKAGE INSTALL
 
+```base
+pip install -r requirements/development.txt 
+```
