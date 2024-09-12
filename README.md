@@ -1,7 +1,12 @@
 ## How to create SSH key
 
-### 1.ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
-### 2.cat ~/.ssh/id_rsa.pub (for check ssh key)
+```bash
+ssh-keygen -t rsa -b 4096
+```
+
+```bash
+cat ~/.ssh/id_rsa.pub
+```
 
 ## DATABASE COMMAND:
 
