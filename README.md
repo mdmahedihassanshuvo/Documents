@@ -36,3 +36,7 @@ psql -U postgres psql -f file_with_path -d database_name
 ```base
 pip install -r requirements/development.txt 
 ```
+
+```base
+pip freeze > requirements.txt
+```
