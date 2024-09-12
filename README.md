@@ -11,6 +11,9 @@ cat ~/.ssh/id_rsa.pub
 ## DJANGO NECESSARY COMMAND:
 
 ```base
+pip install django
+```
+```base
 pip install django-crontab
 ```
 
