@@ -8,6 +8,12 @@ ssh-keygen -t rsa -b 4096
 cat ~/.ssh/id_rsa.pub
 ```
 
+## DJANGO NECESSARY COMMAND:
+
+```base
+pip install django-crontab
+```
+
 ## DATABASE COMMAND:
 
 ```bash
