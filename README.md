@@ -40,3 +40,14 @@ pip install -r requirements/development.txt
 ```base
 pip freeze > requirements.txt
 ```
+
+### GITHUB NECESSARY COMAND
+
+```base
+git checkout release
+```
+
+```base
+git marge main
+```
+
