@@ -44,10 +44,24 @@ pip freeze > requirements.txt
 ### GITHUB NECESSARY COMAND
 
 ```base
+git branch
+```
+
+```base
+git branch -a
+```
+
+```base
+git checkout
+```
+
+```base
 git checkout release
 ```
 
 ```base
 git marge main
 ```
+
+
 
