@@ -13,8 +13,13 @@ cat ~/.ssh/id_rsa.pub
 ```base
 pip install django
 ```
+
 ```base
 pip install django-crontab
+```
+
+```base
+pip install djangorestframework
 ```
 
 ## DATABASE COMMAND:
