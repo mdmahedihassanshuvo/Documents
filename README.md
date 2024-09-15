@@ -15,6 +15,10 @@ pip install django
 ```
 
 ```base
+django-admin createapp app_name
+```
+
+```base
 pip install django-crontab
 ```
 
