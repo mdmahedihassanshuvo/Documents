@@ -15,7 +15,7 @@ pip install django
 ```
 
 ```base
-django-admin createapp app_name
+django-admin startproject app_name
 ```
 
 ```base
