@@ -57,6 +57,14 @@ git branch
 ```
 
 ```base
+git add .
+```
+
+```base
+git commit -m
+```
+
+```base
 git branch -a
 ```
 
@@ -65,11 +73,15 @@ git checkout
 ```
 
 ```base
-git checkout release
+git checkout main
 ```
 
 ```base
 git marge main
+```
+
+```base
+git pull
 ```
 
 
