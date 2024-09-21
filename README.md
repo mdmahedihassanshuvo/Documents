@@ -83,6 +83,21 @@ git marge main
 ```base
 git pull
 ```
+## HOW TO INSTALL XAMPP
 
+```base
+wget https://sourceforge.net/projects/xampp/
+```
 
+```base
+cd Downloads
+```
+
+```base
+chmod 755 xampp-linux-*-installer.run
+```
+
+```base
+sudo ./xampp-linux-*-installer.run
+```
 
