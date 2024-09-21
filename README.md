@@ -101,3 +101,11 @@ chmod 755 xampp-linux-*-installer.run
 sudo ./xampp-linux-*-installer.run
 ```
 
+```base
+sudo /opt/lampp/lampp stop
+```
+
+```base
+sudo /opt/lampp/lampp start
+```
+
