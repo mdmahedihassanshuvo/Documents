@@ -1,7 +1,23 @@
 ## HOW TO CREATE A PROJECT
 
 ```base
+mkdir folder_name
+```
+
+```base
 python -m pip install Django
+```
+
+```base
+django-admin startproject mysite
+```
+
+```base
+python3 -m venv myenv
+```
+
+```base
+python manage.py runserver
 ```
 
 ## How to create SSH key
