@@ -1,3 +1,9 @@
+## HOW TO CREATE A PROJECT
+
+```base
+python -m pip install Django
+```
+
 ## How to create SSH key
 
 ```bash
