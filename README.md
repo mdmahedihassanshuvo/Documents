@@ -17,6 +17,10 @@ python3 -m venv myenv
 ```
 
 ```base
+python manage.py startapp app_name
+```
+
+```base
 python manage.py runserver
 ```
 
