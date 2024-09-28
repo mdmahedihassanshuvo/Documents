@@ -64,7 +64,7 @@ create database database_name;
 drop database database_name;
 ```
 ```base
-psql -U postgres psql -f file_with_path -d database_name
+psql -U postgres -h localhost -d rhd_dbs -f /home/shuvo/Downloads/rhd_dms_db_2024_09_28_12_00.psql
 ```
 ## INSTALL ALL REQUIRED PACKAGE INSTALL
 
