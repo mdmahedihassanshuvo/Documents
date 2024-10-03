@@ -66,6 +66,9 @@ drop database database_name;
 ```base
 psql -U postgres -h localhost -d rhd_dbs -f /home/shuvo/Downloads/rhd_dms_db_2024_09_28_12_00.psql
 ```
+```base
+pg_dump -U postgres -h localhost -d tiger_one_dphe_dbs -f /home/shuvo/Downloads/backup_file_name.psql
+```
 ## INSTALL ALL REQUIRED PACKAGE INSTALL
 
 ```base
