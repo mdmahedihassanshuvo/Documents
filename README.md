@@ -55,6 +55,8 @@ pip install djangorestframework
 ## DATABASE COMMAND:
 
 ```bash
+sudo -i -u postgres psql
+```bash
 psql -U postgres -h localhost 
 ```
 ```base
