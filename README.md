@@ -56,6 +56,7 @@ pip install djangorestframework
 
 ```bash
 sudo -i -u postgres psql
+```
 ```bash
 psql -U postgres -h localhost 
 ```
