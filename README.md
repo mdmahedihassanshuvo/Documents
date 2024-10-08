@@ -79,7 +79,7 @@ pip install -r requirements/development.txt
 pip freeze > requirements.txt
 ```
 
-### GITHUB NECESSARY COMAND
+## GITHUB NECESSARY COMAND
 
 ```base
 git branch
@@ -132,9 +132,23 @@ sudo ./xampp-linux-*-installer.run
 
 ```base
 sudo /opt/lampp/lampp stop
-```
 
 ```base
 sudo /opt/lampp/lampp start
+```
+## PYTHON INSTALLATION
+
+```base
+sudo dnf -y install bzip2-devel cairo cairo-devel cryptopp-devel \
+expat-devel gdal gdal-devel libffi-devel libpcap-devel libcurl-devel \
+libxml2-devel ncurses-devel openssl-devel proj proj-devel python3-devel \
+pango pango-devel readline-devel sqlite-devel tk-devel \
+xz-devel xerces-c-devel zlib-devel
+```
+
+```base
+cd /tmp/ && wget https://www.python.org/ftp/python/3.8.15/Python-3.8.15.tgz &&
+tar xzf Python-3.8.15.tgz && cd Python-3.8.15 && ./configure --enable-optimizations &&
+make && sudo make altinstall && python3.8 --version
 ```
 
