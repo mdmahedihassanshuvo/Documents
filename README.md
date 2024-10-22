@@ -115,6 +115,10 @@ git marge main
 ```base
 git pull
 ```
+
+```base
+git branch -vv
+```
 ## HOW TO INSTALL XAMPP
 
 ```base
@@ -139,6 +143,7 @@ sudo /opt/lampp/lampp stop
 ```base
 sudo /opt/lampp/lampp start
 ```
+
 ## PYTHON INSTALLATION
 
 ```base
